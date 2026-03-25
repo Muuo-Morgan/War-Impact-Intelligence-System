@@ -1,0 +1,10 @@
+Data Sources(web) → Python (ETL) → MySQL → Analysis → Power BI Dashboard
+                                 ↓
+                          ML Models (Prediction)
+
+Ingestion layer - APIS, Scraping
+
+Storage layer - MySQL 
+
+Intelligence layer - Python (analysis, ML)
+                   - PowerBI(Visualization)
