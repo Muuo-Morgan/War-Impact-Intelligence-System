@@ -8,14 +8,13 @@ Beyond monitoring and modeling, the system generates weekly intelligence briefs 
 You would ask; Why Does Kenya resonate with this situation? Here Is the breakdown for it all.
 
 Middle East Conflict since it is where most petrolium products coem from that land in kenya through the G to G arrangement made by the kenya government. 
-        
+
 Red Sea / Suez Canal Disruption which is the main route of the shipment of the oil shipments.
 (Houthi attacks on shipping lanes)
-        ↓
+
 Ships reroute around Cape of Good Hope a longer route that will cost additional money use. 
 (adds ~14 days + $1M+ per voyage in costs)
-        ↓
-        ├── Higher shipping costs - more expensive imports into Mombasa
-        ├── Oil supply disruption - fuel price spikes in Kenya
-        ├── Delayed goods - supply shortages - food inflation
-        └── Reduced port activity - economic slowdown, job losses
+ 1. Higher shipping costs - more expensive imports into Mombasa
+ 2. Oil supply disruption - fuel price spikes in Kenya
+ 3. Delayed goods - supply shortages - food inflation
+ 4. Reduced port activity - economic slowdown, job losses
